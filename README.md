@@ -16,7 +16,7 @@
 ### [道路地図](https://github.com/gsi-cyberjapan/gsimaps-vector-stylesamples/data/road.json)
 道路をほかの地物より目立たせて表示し、さらに道路の種類（高速道路、国道、都道府県道など）をわかりやすくしたスタイルです。
 
-[![道路地図](image/road.PNG)](https://kumoji9611.github.io/200427_test/index.html/?ls=vroad) 
+[![道路地図](image/road.PNG)](https://kumoji9611.github.io/200427_test/?ls=vpale#7/36.104611/140.084556/&ls=road&disp=1&d=l) 
 
 
 ### [鉄道路線図](https://github.com/gsi-cyberjapan/gsimaps-vector-stylesamples/data/railway.json)

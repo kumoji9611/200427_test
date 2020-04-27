@@ -7,7 +7,7 @@
 保存したファイルは、地理院地図Vectorの「地図デザインの追加」-「地図デザインファイルを開く」から読み込んで表示することができます。
 
 
-### [軽い標準地図](https://github.com/gsi-cyberjapan/gsimaps-vector-stylesamples/data/light.json)
+### [軽い標準地図](https://github.com/kumoji9611/200427_test/data/light.json)
 地理院地図Vectorの「標準地図」をベースに、道路・鉄道の立体交差の表現を行わないなど、できるだけシンプルなデザインとすることで、スタイルファイルの読み込み速度を「標準地図」より速めたスタイルです。
 
 [![軽い標準地図](image/light.PNG)](https://github.com/gsi-cyberjapan/gsimaps-vector-stylesamples/index.html) 

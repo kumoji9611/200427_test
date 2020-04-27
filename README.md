@@ -10,7 +10,7 @@
 ### [軽い標準地図](https://raw.githubusercontent.com/kumoji9611/200427_test/master/data/light.json)
 地理院地図Vectorの「標準地図」をベースに、道路・鉄道の立体交差の表現を行わないなど、できるだけシンプルなデザインとすることで、スタイルファイルの読み込み速度を「標準地図」より速めたスタイルです。
 
-[![軽い標準地図](image/light.PNG)](https://kumoji9611.github.io/200427_test/index.html/?ls=vlight) 
+[![軽い標準地図](image/light.PNG)](https://kumoji9611.github.io/200427_test/) 
 
 
 ### [道路地図](https://github.com/gsi-cyberjapan/gsimaps-vector-stylesamples/data/road.json)

@@ -22,13 +22,13 @@
 ### [鉄道路線図](https://github.com/gsi-cyberjapan/gsimaps-vector-stylesamples/data/railway.json)
 鉄道に関する情報だけを表示したスタイルです（ZL8～17では、参考として河川も表示しています）。
 
-[![鉄道路線図](image/railway.PNG)](https://kumoji9611.github.io/200427_test/index.html/?ls=vrailway) 
+[![鉄道路線図](image/railway.PNG)](https://kumoji9611.github.io/200427_test/index.html/?ls=railway) 
 
 
 ### [地形だけ地図](https://github.com/gsi-cyberjapan/gsimaps-vector-stylesamples/data/land.json)
 道路や建物などを表示せず、山と山名、川と川名など、自然の地形の情報のみを表示したスタイルです。地形の学習の素材にオススメです。
 
-[![地形だけ地図](image/land.PNG)](https://kumoji9611.github.io/200427_test/&ls=railway) 
+[![地形だけ地図](image/land.PNG)](https://kumoji9611.github.io/200427_test/?ls=land) 
 
 
 ### [川だけ地図](https://github.com/gsi-cyberjapan/gsimaps-vector-stylesamples/data/river.json)

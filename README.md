@@ -28,7 +28,7 @@
 ### [地形だけ地図](https://github.com/gsi-cyberjapan/gsimaps-vector-stylesamples/data/land.json)
 道路や建物などを表示せず、山と山名、川と川名など、自然の地形の情報のみを表示したスタイルです。地形の学習の素材にオススメです。
 
-[![地形だけ地図](image/land.PNG)](https://kumoji9611.github.io/200427_test/index.html/?ls=vland) 
+[![地形だけ地図](image/land.PNG)](https://kumoji9611.github.io/200427_test/&ls=railway) 
 
 
 ### [川だけ地図](https://github.com/gsi-cyberjapan/gsimaps-vector-stylesamples/data/river.json)
